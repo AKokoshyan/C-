@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1495293105 source:e:\c++\programinbasic\main.cpp
+	<iostream>
+	"moveZeroes.h"
+
+1495287822 e:\c++\programinbasic\matrixsumrowws.h
+	<iostream>
+
+1495289767 e:\c++\programinbasic\matrixbigestrow.h
+	<iostream>
+
+1495294675 e:\c++\programinbasic\movezeroes.h
+	<iostream>
+
